@@ -1,8 +1,10 @@
-.DS_Store
-Thumbs.db
-db.json
-*.log
-node_modules/
+# IDEs
+.idea/
+
+# Hugo
+resources/
 public/
-.deploy*/
-_multiconfig.yml
+jsconfig.json
+node_modules/
+go.sum
+.hugo_build.lock
