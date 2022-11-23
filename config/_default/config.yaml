@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Weihang Xu # Website name
-baseURL: 'https://weihangxu.com/' # Website URL
+baseURL: 'https://the-bucket-rider.github.io/' # Website URL
 
 ############################
 ## LANGUAGE
