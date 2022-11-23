@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://the-bucket-rider.github.io/sitemap.xml
