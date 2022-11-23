@@ -1,26 +1,33 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Weihang Xu</title><link>https://the-bucket-rider.github.io/</link><atom:link href="https://the-bucket-rider.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Weihang Xu</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate><image><url>https://the-bucket-rider.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Weihang Xu</title><link>https://the-bucket-rider.github.io/</link></image><item><title>An example preprint / working paper</title><link>https://the-bucket-rider.github.io/publications/preprint/</link><pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate><guid>https://the-bucket-rider.github.io/publications/preprint/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>Combinatorial Bandits with Linear Constraints: Beyond Knapsacks and Fairness</title><link>https://the-bucket-rider.github.io/publications/journal-article/</link><pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate><guid>https://the-bucket-rider.github.io/publications/journal-article/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-&lt;/div>
-&lt;/div>
-&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item><item><title>An example conference paper</title><link>https://the-bucket-rider.github.io/publications/conference-paper/</link><pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate><guid>https://the-bucket-rider.github.io/publications/conference-paper/</guid><description>&lt;div class="alert alert-note">
-&lt;div>
-Click the &lt;em>Cite&lt;/em> button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-&lt;/div>
-&lt;/div>
-&lt;div class="alert alert-note">
-&lt;div>
-Create your slides in Markdown - click the &lt;em>Slides&lt;/em> button to check out the example.
-&lt;/div>
-&lt;/div>
-&lt;p>Supplementary notes can be added here, including &lt;a href="https://wowchemy.com/docs/writing-markdown-latex/" target="_blank" rel="noopener">code, math, and images&lt;/a>.&lt;/p></description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Weihang Xu</title><link>https://the-bucket-rider.github.io/</link><atom:link href="https://the-bucket-rider.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Weihang Xu</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://the-bucket-rider.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Weihang Xu</title><link>https://the-bucket-rider.github.io/</link></image><item><title/><link>https://the-bucket-rider.github.io/novels-and-movies/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://the-bucket-rider.github.io/novels-and-movies/</guid><description>&lt;p>I am fond of novels and movies. Here is a list of recommendations about them.&lt;/p>
+&lt;h4 id="my-favorite-novels-up-to-now">My favorite novels (up to now)&lt;/h4>
+&lt;ul>
+&lt;li>&lt;em>The Brothers Karamazov&lt;/em> by Dostoevsky&lt;/li>
+&lt;li>&lt;em>The Castle&lt;/em> by Franz Kafka&lt;/li>
+&lt;li>&lt;em>The Trial&lt;/em> by Franz Kafka&lt;/li>
+&lt;li>&lt;em>Steppenwolf&lt;/em> by Hermann Hesse&lt;/li>
+&lt;li>&lt;em>The Magic Mountain&lt;/em> by Thomas Mann&lt;/li>
+&lt;li>&lt;em>Norwegian Wood&lt;/em> by Haruki Murakami&lt;/li>
+&lt;li>&lt;em>The Book of Sand&lt;/em> by Jorge Luis Borges&lt;/li>
+&lt;li>&lt;em>The Stranger&lt;/em> by Albert Camus&lt;/li>
+&lt;li>&lt;em>The Great Gatsby&lt;/em> by F. Scott Fitzgerald&lt;/li>
+&lt;li>&lt;em>The Diamond as Big as the Ritz&lt;/em> by F. Scott Fitzgerald&lt;/li>
+&lt;li>&lt;em>Odour of Chrysanthemums&lt;/em> by D. H. Lawrence&lt;/li>
+&lt;/ul>
+&lt;h4 id="my-favorite-movies-up-to-now">My favorite movies (up to now)&lt;/h4>
+&lt;ul>
+&lt;li>&lt;em>Apocalypse Now&lt;/em>&lt;/li>
+&lt;li>&lt;em>Mulholland Drive&lt;/em>&lt;/li>
+&lt;li>&lt;em>L&amp;rsquo;Eclisse&lt;/em>&lt;/li>
+&lt;li>&lt;em>Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb&lt;/em>&lt;/li>
+&lt;li>&lt;em>A Clockwork Orange&lt;/em>&lt;/li>
+&lt;li>&lt;em>One Flew Over the Cuckoo&amp;rsquo;s Nest&lt;/em>&lt;/li>
+&lt;li>&lt;em>Taxi Driver&lt;/em>&lt;/li>
+&lt;li>&lt;em>Bande à part&lt;/em>&lt;/li>
+&lt;li>&lt;em>No Country for Old Men&lt;/em>&lt;/li>
+&lt;/ul></description></item><item><title/><link>https://the-bucket-rider.github.io/publications/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://the-bucket-rider.github.io/publications/</guid><description>&lt;p>* denotes equal contribution.&lt;/p>
+&lt;h2 id="conference-papers">Conference Papers&lt;/h2>
+&lt;ul>
+&lt;li>Combinatorial Bandits with Linear Constraints: Beyond Knapsacks and Fairness&lt;br>
+Qingsong Liu*, &lt;strong>Weihang Xu&lt;/strong>*, Siwei Wang, Zhixuan Fang&lt;br>
+Conference on Neural Information Processing Systems (NeurIPS) 2022&lt;/li>
+&lt;/ul></description></item></channel></rss>
