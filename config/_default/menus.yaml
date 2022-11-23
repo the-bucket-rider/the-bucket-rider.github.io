@@ -28,3 +28,6 @@ main:
   # - name: CV
   #   url: uploads/CV.pdf
   #   weight: 70
+  - name: Novels&Movies
+    url: novels-and-movies
+    weight: 100
