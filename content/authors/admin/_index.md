@@ -10,15 +10,15 @@ last_name: Xu
 superuser: true
 
 # Role/position/tagline
-role: Undergraduate
+# role: Undergraduate
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: IIIS, Tsinghua university
-    url: https://iiis.tsinghua.edu.cn/en/
+# organizations:
+#   - name: IIIS, Tsinghua university
+#     url: https://iiis.tsinghua.edu.cn/en/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 # interests:
@@ -77,7 +77,14 @@ email: ''
 highlight_name: true
 ---
 
-I am a forth-year undergraduate student in Institute for Interdisciplinary Information Science (IIIS), Tsinghua University. 
+I am a forth-year undergraduate student at the [Institute for Interdisciplinary Information Science (IIIS)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University. [<a href="uploads/cv.pdf">CV</a>]
 
-[//]: #{{< icon name="download" pack="fas" >}} 
-My {{< staticref "uploads/CV.pdf" "newtab" >}}CV{{< /staticref >}}.
+I am interested in theoretical machine learning, optimization, and any mathematical problems that people encouter in practice.
+
+
+My <a href="/publications">publications</a>.
+
+Email: xuwh01 [at] gmail (dot) com 
+
+
+
