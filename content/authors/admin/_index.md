@@ -79,7 +79,7 @@ highlight_name: true
 
 I am a forth-year undergraduate student at the [Institute for Interdisciplinary Information Science (IIIS)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University. [<a href="uploads/cv.pdf">CV</a>]
 
-I am interested in theoretical machine learning, optimization, and any mathematical problems that people encouter in practice.
+I am interested in theoretical machine learning, optimization, and other mathematical problems related to pratical algorithms.
 
 
 My <a href="/publications">publications</a>.
