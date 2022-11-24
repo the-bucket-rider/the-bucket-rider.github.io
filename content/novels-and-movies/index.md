@@ -1,4 +1,4 @@
-I am fond of novels and movies. Here is a list of recommendations about them.
+I am fond of novels and movies, and here are my favorite ones.
 
 #### My favorite novels (up to now)
 
