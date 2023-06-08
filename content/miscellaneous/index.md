@@ -1,6 +1,6 @@
-I am fond of novels and movies, and here are my favorite ones.
 
-#### My favorite novels (up to now)
+
+#### Novels I recommend
 
 - *The Brothers Karamazov* by Dostoevsky
 - *The Castle* by Franz Kafka
@@ -15,7 +15,7 @@ I am fond of novels and movies, and here are my favorite ones.
 - *Odour of Chrysanthemums* by D. H. Lawrence
 
 
-#### My favorite movies (up to now)
+#### Movies I recommend
 
 - *Apocalypse Now*
 - *Mulholland Drive*

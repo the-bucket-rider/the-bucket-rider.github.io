@@ -77,7 +77,7 @@ email: ''
 highlight_name: true
 ---
 
-I am a fourth-year undergraduate student at the [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University. [<a href="uploads/CV.pdf">CV</a>]
+I am a fourth-year undergraduate student at the [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University. I am also an incoming PhD student at UW CSE. [<a href="uploads/CV.pdf">CV</a>]
 
 My research interests are broadly in theoretical machine learning, optimization, and other mathematical problems related to pratical algorithms.
 
