@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Weihang Xu</title><link>https://the-bucket-rider.github.io/</link><atom:link href="https://the-bucket-rider.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Weihang Xu</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://the-bucket-rider.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Weihang Xu</title><link>https://the-bucket-rider.github.io/</link></image><item><title/><link>https://the-bucket-rider.github.io/miscellaneous/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://the-bucket-rider.github.io/miscellaneous/</guid><description>&lt;h4 id="novels-i-recommend">Novels I recommend&lt;/h4>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Weihang Xu</title><link>https://the-bucket-rider.github.io/</link><atom:link href="https://the-bucket-rider.github.io/index.xml" rel="self" type="application/rss+xml"/><description>Weihang Xu</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><image><url>https://the-bucket-rider.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url><title>Weihang Xu</title><link>https://the-bucket-rider.github.io/</link></image><item><title/><link>https://the-bucket-rider.github.io/miscellaneous/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://the-bucket-rider.github.io/miscellaneous/</guid><description>&lt;p>I&amp;rsquo;m a fan of novels and cinema.&lt;/p>
+&lt;h4 id="novels-i-recommend">Novels I recommend&lt;/h4>
 &lt;ul>
 &lt;li>&lt;em>The Brothers Karamazov&lt;/em> by Dostoevsky&lt;/li>
 &lt;li>&lt;em>The Castle&lt;/em> by Franz Kafka&lt;/li>
@@ -30,7 +31,7 @@
 &lt;li>
 &lt;p>Over-Parameterization Exponentially Slows Down Gradient Descent for Learning a Single Neuron&lt;br>
 &lt;strong>Weihang Xu&lt;/strong>, Simon S. Du&lt;br>
-Conference of Learning Theory (COLT) 2023&lt;/p>
+Conference on Learning Theory (COLT) 2023&lt;/p>
 &lt;/li>
 &lt;li>
 &lt;p>Combinatorial Bandits with Linear Constraints: Beyond Knapsacks and Fairness&lt;br>
