@@ -8,7 +8,7 @@
 
 - Over-Parameterization Exponentially Slows Down Gradient Descent for Learning a Single Neuron  
   **Weihang Xu**, Simon S. Du  
-  Conference of Learning Theory (COLT) 2023
+  Conference on Learning Theory (COLT) 2023
 
 - Combinatorial Bandits with Linear Constraints: Beyond Knapsacks and Fairness  
   Qingsong Liu\*, **Weihang Xu**\*, Siwei Wang, Zhixuan Fang  
