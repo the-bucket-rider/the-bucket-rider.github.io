@@ -76,10 +76,9 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
+I am currently a PhD student in the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/), University of Washington, working with [Simon Du](https://simonshaoleidu.com/) and [Maryam Fazel](https://people.ece.uw.edu/fazel_maryam/). I am interested in studying various applications of machine learning algorithms from a theoretical perspective.
 
-I am a fourth-year undergraduate student at the [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University. I am also an incoming PhD student at UW CSE. [<a href="uploads/CV.pdf">CV</a>]
-
-My research interests are broadly in theoretical machine learning, optimization, and other mathematical problems related to pratical algorithms.
+Previously I received my bachelor's degree in Computer Science from the [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University.  [<a href="uploads/CV.pdf">CV</a>]
 
 Email: xuwh01 [at] gmail (dot) com 
 
