@@ -43,7 +43,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: 'Last updated 10/30/{year}.'
     license:
       enable: true
       allow_derivatives: false
