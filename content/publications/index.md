@@ -6,6 +6,14 @@
 
 \* denotes equal contribution.
 
+- Toward Global Convergence of Gradient EM for Over-Parameterized Gaussian Mixture Models
+  **Weihang Xu**, Maryam Fazel, Simon S. Du
+  Conference on Neural Information Processing Systems (NeurIPS) 2024
+
+- Learning-based scheduling for information gathering with QoS constraints
+  Qingsong Liu, **Weihang Xu**, Zhixuan Fang
+  In IEEE International Conference on Computer Communications (INFOCOM) 2024
+
 - Over-Parameterization Exponentially Slows Down Gradient Descent for Learning a Single Neuron  
   **Weihang Xu**, Simon S. Du  
   Conference on Learning Theory (COLT) 2023\

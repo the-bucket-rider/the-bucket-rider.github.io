@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: 'Last updated 3/9/{year}.'
+    notice: 'Last updated 12/14/{year}.'
     license:
       enable: true
       allow_derivatives: false
