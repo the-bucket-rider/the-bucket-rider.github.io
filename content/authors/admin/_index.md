@@ -76,7 +76,7 @@ email: ''
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-I am currently a 2nd year PhD student in the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/), University of Washington, working with [Simon Du](https://simonshaoleidu.com/) and [Maryam Fazel](https://people.ece.uw.edu/fazel_maryam/). I am interested in optimization, math, and physics of AGI.
+I am currently a 3rd year PhD student in the [Paul G. Allen School of Computer Science & Engineering](https://www.cs.washington.edu/), University of Washington. I am very fortunate to be advised by [Simon S. Du](https://simonshaoleidu.com/) and [Maryam Fazel](https://people.ece.uw.edu/fazel_maryam/). I am interested in deep learning theory and optimization, in all aspects.
 
 Previously I received my bachelor's degree in Computer Science from the [Institute for Interdisciplinary Information Sciences (IIIS)](https://iiis.tsinghua.edu.cn/en/), Tsinghua University.  [<a href="uploads/CV.pdf">CV</a>]
 
